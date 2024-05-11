@@ -1,5 +1,18 @@
 # @hyperlane-xyz/cli
 
+## 3.12.0
+
+### Minor Changes
+
+- cc873198: Default to home directory for local registry
+
+### Patch Changes
+
+- 2b7dfe27: Improve defaults in chain config command
+- Updated dependencies [69de68a6]
+  - @hyperlane-xyz/utils@3.12.0
+  - @hyperlane-xyz/sdk@3.12.0
+
 ## 3.11.1
 
 ### Patch Changes
