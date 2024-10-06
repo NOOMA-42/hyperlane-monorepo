@@ -1,5 +1,15 @@
 # @hyperlane-xyz/core
 
+## 5.4.0
+
+### Minor Changes
+
+- c5c217f8: Embed NPM package version in bytecode constant
+
+### Patch Changes
+
+- @hyperlane-xyz/utils@5.3.1
+
 ## 5.3.0
 
 ### Patch Changes
